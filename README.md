@@ -24,5 +24,5 @@ Fitur yang ditawarkan Volley library adalah sebagai berikut:
  
 Dari beberapa fitur diatas, ada kata yang menjadi point yaitu “request” Jadi Volley ini sangat baik digunakan untuk melakukan permintaan data ke server melalui web service dengan memperhatikan antrian dalam permintaan data data skala prioritas. 
 
-![dotaapi](https://github.com/1nt4ni/dotaapi/commit/52f7cb1af9d1b777b276008ade68e1319238e25e)
-![dotaapi](https://github.com/1nt4ni/dotaapi/commit/52f7cb1af9d1b777b276008ade68e1319238e25e)
+![dotaapi](https://github.com/1nt4ni/dotaapi/blob/master/SS.jpeg)
+![dotaapi](https://github.com/1nt4ni/dotaapi/blob/master/SS1.jpeg)
